@@ -8,6 +8,7 @@ This is an ecample project of a rest api server built with falcon.
 - [EXPERIMENTAL] Demontrates upload image
 - Acceptance test
 - [TBD] Unit test
+- Docker containerization
 
 ## How to Run
 Run this project using docker:
