@@ -24,4 +24,4 @@ Run this project using docker:
 - Go to project root directory
 - Run `py.test app/tests/ -vv`
 - Screenshot of the test result:
-- 
+![test result](https://raw.githubusercontent.com/herdiansc/falcon-rest-api/master/screenshots/test_result.png "test result")
